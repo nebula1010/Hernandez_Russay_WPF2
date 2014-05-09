@@ -26,4 +26,24 @@ console.log(remainder);
 var evenOrOdd = 67%2;
 console.log(evenOrOdd);
 
+//Assignment Operators
+/*
+= assignment
+++ adds one to the variable
+-- subtracts one
+ += addition assigment
+ -+ subtract assignment
+  division assignment
+ multiplication assignemtnt
+
+ */
+var a = 1;
+a++; //a = a plus one
+a--; // a = a minus one
+a+=4; //a = a + 4
+a-=3; //a = a - 3
+a/=2; // a = a /2
+a*=6;
+console.log(a);
+
 
