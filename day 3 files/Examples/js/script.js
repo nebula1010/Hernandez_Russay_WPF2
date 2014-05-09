@@ -57,5 +57,12 @@ var phrase = 'i don\'t know.\n new line starts here.';
 //escaping character \ backslash
 console.log(phrase);
 //\n =new line character
+//boolean
+// true of false
+// not the text value of it!
+var yes = true;
+var maybe = "true";
+//not boolean just text
+var nope = false;
 
 
