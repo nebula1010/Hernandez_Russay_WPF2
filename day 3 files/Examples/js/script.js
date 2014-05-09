@@ -18,3 +18,12 @@ var base = 4;
 var height = 5;
 var areaTriangle = base*height*.5;
 console.log(areaTriangle);
+//modulo = percent
+//gives you the remainder
+var remainder = 32%10;
+console.log(remainder);
+//find out if things are even or odd
+var evenOrOdd = 67%2;
+console.log(evenOrOdd);
+
+
