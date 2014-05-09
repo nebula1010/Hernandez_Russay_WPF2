@@ -45,5 +45,17 @@ a-=3; //a = a - 3
 a/=2; // a = a /2
 a*=6;
 console.log(a);
+//strings
+//" or ' used to find the beginging and end of string
+// needed to distinguish between variable names and normal text
+var kermit = "light green";
+var flogName = "kermit";
+//double or single quotes?
+// can use either but must match!
+var courseName = 'web programing fundamentals';
+var phrase = 'i don\'t know.\n new line starts here.';
+//escaping character \ backslash
+console.log(phrase);
+//\n =new line character
 
 
