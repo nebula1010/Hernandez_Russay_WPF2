@@ -64,5 +64,26 @@ var yes = true;
 var maybe = "true";
 //not boolean just text
 var nope = false;
+//order of operations
+//PEMDAS
+//find the average of quiz grades
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+var quiz4 = 80;
+
+//find the average, add them all together and divide by
+//total number of quizes
+var average = (quiz1+quiz2+quiz3+quiz4) /4;
+console.log(average);
+//do not over use them
+//find the perimiter of a rectangle
+//lenght * 2 + width * 2
+var width = 6;
+var length = 7;
+
+var perimeter = length * 2 + width * 2;
+console.log(perimeter); 
+
 
 
