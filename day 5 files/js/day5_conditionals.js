@@ -28,14 +28,21 @@ console.log("what comes after");
 // if a child is not over 30 inches long then he cant ride
 
 
-var kidHeight = 46;
+var kidHeight = 50;
 
-var minHeight = 60;
-var sneakerLift = 2;
+var minHeight = 48;
+var wParentHeight = 45;
 
-if(kidHeight + sneakerLift>=minHeight){
+if(kidHeight>=minHeight){
     console.log("you can ride!!");
-}else{
-    console.log("sorry, not tall enough");
+}else if(kidHeight >= wParentHeight){
+
+console.log("you can ride with a parent");
+}else {
+    console.log("no riding");
 }
-console.log("what comes after");
+
+
+//if the child is 48 inches or taller he can ride the coaster
+//if the child is riding with a parent, then he can
+// ber 45 tall. anything smaller than thant, no riding
