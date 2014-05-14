@@ -28,13 +28,14 @@ console.log("what comes after");
 // if a child is not over 30 inches long then he cant ride
 
 
-var kidHeight = 30;
+var kidHeight = 46;
 
-var minHeight = 48;
+var minHeight = 60;
+var sneakerLift = 2;
 
-if(kidHeight>=minHeight){
-    console.log("you can ride!!")
+if(kidHeight + sneakerLift>=minHeight){
+    console.log("you can ride!!");
 }else{
-    console.log("sorry, not tall enough")
+    console.log("sorry, not tall enough");
 }
-console.log("what comes after")
+console.log("what comes after");
