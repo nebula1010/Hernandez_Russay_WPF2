@@ -30,9 +30,9 @@ var winLottery = true;
 //or|| one or more of the pair must be true to be true
 
 if (carPrices < carBudget || winLottery){
-    console.log("buy the car")
+    console.log("buy the car");
 
 
 }else{
-    console.log("youre broke, no car for you")
+    console.log("youre broke, no car for you");
 }
