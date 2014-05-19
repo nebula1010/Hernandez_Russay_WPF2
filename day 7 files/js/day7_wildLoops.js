@@ -21,3 +21,20 @@ while(counter<200){//condition- loops unitl false
 }
 console.log("ending counter "+counter);
 
+//do while loop
+//this loop will run the code once to start, before checking if the condition is true
+//then it will repeat as long as the condition stays true
+
+//initialize the variable
+var i=20;
+
+//setup the do while loop
+
+do{
+    console.log("the number of i is "+i);
+    //change the value of variable to avoid an infinite loop
+    i++;
+
+}while(i<10); //condition to test
+
+console.log("the ending value of i is "+i);
