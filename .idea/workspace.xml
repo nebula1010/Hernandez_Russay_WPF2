@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2d6ab68-a643-4e31-9a1d-a63d124e8529" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js" afterPath="$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7 files/index.html" afterPath="$PROJECT_DIR$/day 7 files/index.html" />
     </list>
     <ignored path="Hernandez_Russay_WPF2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day7_wildLoops.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js">
+      <file leaf-file-name="day7_forloops.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 7 files/js/day7_forloops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="29" selection-start="935" selection-end="935" vertical-scroll-proportion="0.84375" vertical-offset="99" max-vertical-offset="675">
+            <state line="11" column="28" selection-start="204" selection-end="204" vertical-scroll-proportion="0.234375" vertical-offset="0" max-vertical-offset="576">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 7 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="131" selection-end="131" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+            <state line="10" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,9 @@
         <option value="$PROJECT_DIR$/day 5 files/index.html" />
         <option value="$PROJECT_DIR$/day 5 files/js/day5_ternary.js" />
         <option value="$PROJECT_DIR$/day 4 files/expressions assignment/buying a computer/js/script.js" />
-        <option value="$PROJECT_DIR$/day 7 files/index.html" />
         <option value="$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js" />
+        <option value="$PROJECT_DIR$/day 7 files/index.html" />
+        <option value="$PROJECT_DIR$/day 7 files/js/day7_forloops.js" />
       </list>
     </option>
   </component>
@@ -368,16 +369,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 7 files/index.html">
+    <entry file="file://$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="131" selection-end="131" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state line="39" column="29" selection-start="935" selection-end="935" vertical-scroll-proportion="0.84375" vertical-offset="99" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 7 files/js/day7_wildLoops.js">
+    <entry file="file://$PROJECT_DIR$/day 7 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="29" selection-start="935" selection-end="935" vertical-scroll-proportion="0.84375" vertical-offset="99" max-vertical-offset="675">
+        <state line="10" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 7 files/js/day7_forloops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="204" selection-end="204" vertical-scroll-proportion="0.234375" vertical-offset="0" max-vertical-offset="576">
           <folding />
         </state>
       </provider>
