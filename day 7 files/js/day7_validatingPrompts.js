@@ -10,11 +10,34 @@
 alert("lets find a random number bwetween two numbers");
 var min = prompt("please type in a minmum number");
 var max = Number(prompt("please type in a maximum number"));
+//validate with a loop
+//use a while loop
+while(isNaN(min)){
 
-if(min===""){
-    console.log("inside of empty string minif statement");
-    min = prompt("dont leave it blank give me a number ")
+    //its a text string prompt again for a number
+    min = Number(prompt("please type in a min number "));
+}
+while(isNaN(max)){
 
+    //max is the text string
+    max=Number(prompt("please type in a maximum Number!"))
+}
+
+
+
+
+
+
+
+
+
+
+
+//if(min===""){
+//    console.log("inside of empty string minif statement");
+//    min = prompt("dont leave it blank give me a number ")
+
+/*
 }
 
 //in NaN()
@@ -26,7 +49,7 @@ if (isNaN(max)){
     //will run if its true
     //text string return true
 }
-
+*/
 //math.random()*(max-min)+min;
 //generate a random integer
 var randomNumber = Math.round(Math.random()*(max-min)+min);
