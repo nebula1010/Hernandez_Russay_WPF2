@@ -24,9 +24,21 @@ var width = 5; //scoped outside of the function - "main code"
 
 function calcPeri(){
 
-var width = 28 // this is coped to the function calcPeri
+
+var heigth = 20
+
+var width = 10 // this is coped to the function calcPeri
     console.log("inside "+width);
+var perimeter = width*2 + heigth*2;
+    console.log("inside of function, perimiter is "+perimeter)
+//variabvle created in a function, cannot be accessed outside of a function
+
+
+
 }
-console.log("before call "+width)
+console.log("before call "+width);
 calcPeri();
-console.log("after call "+width)
+console.log("after call "+width);
+
+//console.log("after call the perimeter is "+perimeter)
+//cannot access a variable declared inside of a function;
