@@ -34,6 +34,6 @@ for(var j = 0; j<bills.length; j++){
         //if greater than 20 add it to total bills
         totalBills = totalBills + bills[j];
     }
-    
+
 }
 console.log("your total for bills "+totalBills)
