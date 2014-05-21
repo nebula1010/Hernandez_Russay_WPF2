@@ -14,6 +14,16 @@ function printHello(){
     console.log("hello")
 }
 
+//create a function that console.log "print out more"
+
+function printMore(){
+    console.log("prints out more text!")
+}
+
+
+
+
+
 //function call or printHellp function
 //go botton
 
@@ -21,3 +31,20 @@ function printHello(){
 
 printHello();
 printHello();
+
+printMore();
+calcArea();
+
+//create a function that calculates an area of a trialble
+
+function calcArea(){
+
+
+    //create variables for width, height and area
+    var width = 20;
+    var height = 30;
+    var area = width*height;
+
+    //print out the area
+    console.log(area);
+}
