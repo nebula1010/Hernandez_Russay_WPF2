@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2d6ab68-a643-4e31-9a1d-a63d124e8529" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9 files/js/day9_procedures.js" afterPath="$PROJECT_DIR$/day 9 files/js/day9_procedures.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9 files/js/day9_randomnumbers.js" afterPath="$PROJECT_DIR$/day 9 files/js/day9_randomnumbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9 files/index.html" afterPath="$PROJECT_DIR$/day 9 files/index.html" />
     </list>
     <ignored path="Hernandez_Russay_WPF2.iws" />
@@ -27,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day9_procedures.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day 9 files/js/day9_procedures.js">
+      <file leaf-file-name="day9_advancearrays.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 9 files/js/day9_advancearrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.34456354" vertical-offset="0" max-vertical-offset="653">
+            <state line="44" column="0" selection-start="965" selection-end="965" vertical-scroll-proportion="0.8851455" vertical-offset="82" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -39,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 9 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="36" selection-start="86" selection-end="86" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+            <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -89,8 +87,9 @@
         <option value="$PROJECT_DIR$/day 8 files/js/day8_return.js" />
         <option value="$PROJECT_DIR$/day 8 files/functions worksheet/js/script.js" />
         <option value="$PROJECT_DIR$/day 9 files/js/day9_randomnumbers.js" />
-        <option value="$PROJECT_DIR$/day 9 files/index.html" />
         <option value="$PROJECT_DIR$/day 9 files/js/day9_procedures.js" />
+        <option value="$PROJECT_DIR$/day 9 files/index.html" />
+        <option value="$PROJECT_DIR$/day 9 files/js/day9_advancearrays.js" />
       </list>
     </option>
   </component>
@@ -745,16 +744,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 9 files/index.html">
+    <entry file="file://$PROJECT_DIR$/day 9 files/js/day9_procedures.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="36" selection-start="86" selection-end="86" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+        <state line="15" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.34456354" vertical-offset="0" max-vertical-offset="653">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 9 files/js/day9_procedures.js">
+    <entry file="file://$PROJECT_DIR$/day 9 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.34456354" vertical-offset="0" max-vertical-offset="653">
+        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 9 files/js/day9_advancearrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="965" selection-end="965" vertical-scroll-proportion="0.8851455" vertical-offset="82" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
