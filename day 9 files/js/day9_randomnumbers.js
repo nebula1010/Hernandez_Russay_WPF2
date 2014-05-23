@@ -10,7 +10,7 @@
 
 //create a function that will give us a random integer
 
-function randomizer(mn,mx ){//used peramiters
+function randomizer( mn,mx){//used peramiters
 
     //generate a random integer and return it back
 
@@ -29,21 +29,23 @@ function randomizer(mn,mx ){//used peramiters
 }
 
 
-
-var minUser = prompt("please insert a max value");
-var maxUser = prompt("please insert a max value")
+//cat user prompts to numbers
+var minUser = Number(prompt("please insert a min value"));
+var maxUser = Number(prompt("please insert a max value"));
 
 //function call this randomizer
 //need  variable to catch the return value
-var result = randomizer(20,100); //you need argunment
+var result = randomizer(minUser, maxUser); //you need argunment
 
-console.log(result)
+console.log(result);
+for(var i = 0; i < 15; i++){
+    //create a random integer
+    console.log(result);
+    //console.log(result); does not work
 
-
-
-
-
-
+    //must function call to start the funtion
+    console.log(randomizer(minUser,maxUser));
+}
 
 
 
