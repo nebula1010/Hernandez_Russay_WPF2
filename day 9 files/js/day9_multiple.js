@@ -14,7 +14,27 @@
 //prompt te user for wifth and height
 
 var width = Number(prompt("please type in a rect width"));
-var height = Number(prompt("please type in a rect height"));
+while(isNaN(width)|| width === ""){
+    var width = Number(prompt("please type in a rect width"));
+}
+//validat the user imput for width
+//while loop to check if the user imputterd a number and didnt leave it black
+
+    var height = Number(prompt("please type in a rect height"));
+    while(isNaN(height)|| height === ""){
+        var height = Number(prompt("please type in a rect width"));
+
+
+
+}
+
+
+
+
+
+
+
+
 
 //create a varible to cach a return value
 
@@ -39,7 +59,12 @@ function perimeterRect(width, height){
     return p;
 
 }
-function areaRectangle(w, h){;
-var a = w*h;
-return a;
+function areaRectangle(w, h){
+//area of a rectangle
+
+    var a = w*h;
+
+   //return the area
+    return a;
 }
+
