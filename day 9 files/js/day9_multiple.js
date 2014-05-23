@@ -20,15 +20,17 @@ while(isNaN(width)|| width === ""){
 //validat the user imput for width
 //while loop to check if the user imputterd a number and didnt leave it black
 
-    var height = Number(prompt("please type in a rect height"));
-    while(isNaN(height)|| height === ""){
-        var height = Number(prompt("please type in a rect width"));
+   // var height = Number(prompt("please type in a rect height"));
+    //while(isNaN(height)|| height === ""){
+      //  var height = Number(prompt("please type in a rect height"));
 
 
-
+//do while loop for asking and validating
 }
 
-
+do{
+    var height = Number(prompt("please type in a rect height"));
+}while(isNaN(height)|| height === "");
 
 
 
