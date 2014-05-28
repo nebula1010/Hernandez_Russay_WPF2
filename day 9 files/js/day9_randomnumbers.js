@@ -38,7 +38,7 @@ var maxUser = Number(prompt("please insert a max value"));
 var result = randomizer(minUser, maxUser); //you need argunment
 
 console.log(result);
-for(var i = 0; i < 15; i++){
+for(var i = 0; i < 7; i++){
     //create a random integer
     console.log(result);
     //console.log(result); does not work

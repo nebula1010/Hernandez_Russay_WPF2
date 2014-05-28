@@ -59,3 +59,39 @@ var trangleArea2 = function(b,h){
 var triArea2 = trangleArea2(7,8);
 
 console.log(triArea2);
+
+
+
+
+
+
+
+
+var userImput = prompt("which do you pefer, dreamweaver or webstorm")
+
+while(userImput!="dreamweaver" && userImput!= "webstorm"){
+    userImput = prompt("only dreamweaver OR webstorm");
+
+}
+
+
+if(userImput ==="dreamweaver"){
+    console.log("congrats")
+}
+
+if(userImput === "webstorm"){
+    console.log("sorry")
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

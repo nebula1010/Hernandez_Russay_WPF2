@@ -55,7 +55,7 @@ function perimeterRect(width, height){
 
    //peeimeter of a rectangle os
     //2* width + 2* height
-    var p = 2*width + 2*height;
+    var MPH =
 
     //return a perimeter
     return p;
@@ -64,7 +64,7 @@ function perimeterRect(width, height){
 function areaRectangle(w, h){
 //area of a rectangle
 
-    var a = w*h;
+    var p = w*h;
 
    //return the area
     return a;
