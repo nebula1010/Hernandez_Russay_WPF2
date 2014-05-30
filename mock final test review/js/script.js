@@ -10,13 +10,17 @@ var radius = Number(prompt("what is the radius of a circle"));
 console.log(radius)
 
 while(isNaN(radius)|| radius === ""){
-    var radius = Number(prompt("re type the radius"));}
+radius = Number(prompt("re type the radius"));}
 
 areaCircle();
 
 
-function areaCircle(){
-    area = radius * 2 * Math.PI;
-    console.log(area);
+function areaCircle(r){
+
+ var area = 2*r*Math.PI;
+return area
 
 }
+var result = areaCircle(radius);
+
+console.log("fhefkledr "+radius+" sfkjefjkn "+result+"")

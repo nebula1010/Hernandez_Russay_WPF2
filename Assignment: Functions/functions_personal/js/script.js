@@ -10,24 +10,18 @@
     //find the perimeter and area
 
 var width = Number(prompt("type the width of the room"));
-while(isNaN(width)|| width === ""){
+while(isNaN(width)||width===""){
     var width = Number(prompt("re type the width of the room"));
 }
 
  var length = Number(prompt("type in the room length"));
-while(isNaN(length)|| length === ""){
+while(isNaN(length)||length===""){
   var length = Number(prompt("re type the room length"));
 
 }
 var perimeter = perimeterRoom(width, length);
-
-console.log(perimeter);
-
-
-
 var area = areaRoom(width,length);
 
-console.log(area);
 console.log("with a width of "+width+" and  a length of "+length+" ,the perimeter of the house is "+perimeter+"" +
     "and the area is "+area );
 function perimeterRoom(width, length){

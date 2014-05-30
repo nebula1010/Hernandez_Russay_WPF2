@@ -13,7 +13,7 @@ function webClass(){
 userInput = prompt("which do you pefer, dreamweaver or webstorm")
 
 while(userInput!="dreamweaver" && userInput!= "webstorm"){
-    userInput = prompt("only dreamweaver OR webstorm");
+    userInput = prompt("choose dreamweaver or webstorm only");
 
 }
 
